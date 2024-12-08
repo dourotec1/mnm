@@ -65,7 +65,7 @@ export const UserMenu = ({ user }: UserMenuProps) => {
             </div>
             <div className="p-4">
               <div className="text-sm text-gray-600">
-                Welcome to Moneiero! Start trading securely with other users.
+                Welcome to Swapmoneros! Start trading securely with other users.
               </div>
             </div>
           </div>
